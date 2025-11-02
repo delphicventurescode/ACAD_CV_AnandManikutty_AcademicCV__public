@@ -6,6 +6,7 @@ This repo holds the following documents:
 
 - available in this sub-directory: CV1__CV_for_Academia/
 
-(*) Anand Manik
+(*) The "Outline of Anand Manikutty's Professional Profile" document:
 
+- available in this sub-directory: PROF1__GuideToAnandManikuttysProfProfile/
 [+]
