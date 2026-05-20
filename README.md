@@ -13,3 +13,7 @@ This repo holds the following documents:
 - available in this sub-directory: PROF1__GuideToAnandManikuttysProfProfile/
 
 [+]
+Link to private version of this repo:
+
+https://github.com/delphicventurescode/ACAD_CV2_AnandManikutty_AcademicCV__priv
+[+]
